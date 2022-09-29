@@ -58,3 +58,7 @@ public class SequentialSearchArray
       return element;
    }
 }//public class SearchArray end
+
+
+//The reason -1 is returned when the search value is 
+//not found in the array is because -1 is not a valid subscript
