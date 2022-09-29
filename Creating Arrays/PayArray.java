@@ -42,4 +42,4 @@ public class PayArray
          System.out.println("Employee #" + (index + 1) + ": $" + grossPay);
       }
    }
-}//public class PayArray end
+}
